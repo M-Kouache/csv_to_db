@@ -29,7 +29,6 @@ sudo pacman -S gcc postgresql
 ```
 
 ### macOS
-- Xcode Command Line Tools
 - PostgreSQL (via Homebrew)
 ```bash
 # Install Homebrew if not already installed
@@ -53,15 +52,6 @@ make
 
 ## Usage
 
-1. Configure your database connection settings:
-```bash
-export DB_HOST=localhost
-export DB_PORT=5432
-export DB_NAME=your_database
-export DB_USER=your_username
-export DB_PASSWORD=your_password
-```
-
 2. Run the program:
 ```bash
 ./postigWriteChallenge <input_file.csv>
@@ -69,7 +59,7 @@ export DB_PASSWORD=your_password
 
 Example:
 ```bash
-./csv_to_db ../code-list.csv
+./postigWriteChallenge ../code-list.csv
 ```
 
 ## Troubleshooting
