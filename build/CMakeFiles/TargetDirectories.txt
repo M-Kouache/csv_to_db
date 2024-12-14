@@ -1,3 +1,0 @@
-/Users/mohamedkouache/yard/clang/postgis-write-challenge/build/CMakeFiles/postigWriteChallenge.dir
-/Users/mohamedkouache/yard/clang/postgis-write-challenge/build/CMakeFiles/edit_cache.dir
-/Users/mohamedkouache/yard/clang/postgis-write-challenge/build/CMakeFiles/rebuild_cache.dir

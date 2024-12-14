@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/Users/mohamedkouache/yard/clang/postgis-write-challenge/build",
-  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I/Users/mohamedkouache/yard/clang/postgis-write-challenge/include -I/opt/homebrew/opt/libpq/include  -I/opt/homebrew/opt/libpq/include -L/opt/homebrew/opt/libpq/lib -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -o CMakeFiles/postigWriteChallenge.dir/src/main.c.o -c /Users/mohamedkouache/yard/clang/postgis-write-challenge/src/main.c",
-  "file": "/Users/mohamedkouache/yard/clang/postgis-write-challenge/src/main.c",
-  "output": "CMakeFiles/postigWriteChallenge.dir/src/main.c.o"
-}
-]
